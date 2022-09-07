@@ -17,7 +17,7 @@ import { MensagemModule } from '../componentes/mensagem/mensagem.module';
     CommonModule,
     HomeRoutingModule,
     FormsModule,
-    
+    MensagemModule
   ],
   exports:[
     HomeComponent
